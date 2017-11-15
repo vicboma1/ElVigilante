@@ -3,7 +3,7 @@ Proyecto avanzado
 
 ### Dashboard
 
-![](https://github.com/vicboma1/ElVigilanteBluemix/blob/master/assets/vigilante.gif)
+![](https://github.com/vicboma1/ElVigilanteBluemix/blob/master/assets/_vigilante.gif)
 
 Este proyecto hace uso de ingeniería inversa para desamblar el empaquetado de la aplicación dashboard de node-RED.
 
