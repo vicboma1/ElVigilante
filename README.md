@@ -22,7 +22,7 @@ Luego se consulta el perfil de usuario y se obtienen los datos que se presentan 
 
 La carga de la imagen se hace mediante una promesa.
 
-En segundo plano, se crea un tweet en la cuenta de Twitter de "ElVigilanteCloud" con la Ip y el nombre de la consulta.
+En segundo plano y de manera asíncrona, se crea un tweet en la cuenta de Twitter de "ElVigilanteCloud" con la Ip y el nombre de la consulta que ha hecho la persona que usa la aplicación node-RED.
 
 ![](https://github.com/vicboma1/ElVigilanteBluemix/blob/master/assets/vigilante.png)
 
