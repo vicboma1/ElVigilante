@@ -1,5 +1,5 @@
 # El Vigilante
-Proyecto avanzado 
+Proyecto avanzado que forma parte del starter kit de la Hackathon
 
 ### Dashboard
 
